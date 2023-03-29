@@ -5,7 +5,7 @@ To create a recommendation system primarily using collaborative filtering.
 </br>
 
 <h3>Data Source</h3>
-We used two datasets – 98 rows of ratings (1 to 5, hate to love) in employee dataset and 280 rows in DBMI dataset on 50 movies. Both historical data from DMBI and internal employee data was used. The employee dataset was collected from peers using a google form.
+We used two datasets – 98 rows of ratings (1 to 5, hate to love) in employee dataset and 280 rows in DBMI dataset on 50 movies. Both historical data from IMDb and internal employee data was used. The employee dataset was collected from peers using a google form.
 </br>
 
 <h3>Project Description</h3>
